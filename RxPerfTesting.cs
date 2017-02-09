@@ -1,6 +1,6 @@
-/* Run the snippets as C# statements in LINQPad
-*/
-	ReactiveExtensionsPerformanceComparisons();
+// Run as C# statements in LINQPad
+
+    ReactiveExtensionsPerformanceComparisons();
 }  //For LINQPad: Add extra open end curl 
 
 public void ReactiveExtensionsPerformanceComparisons()
